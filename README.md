@@ -1,6 +1,5 @@
 # MickeyAssistantAdminApp
 This is an admin app for the project Mickey Assistant to update, view and delete data in firebase database
-
 Screenshots
 ![IMG-20230906-WA0006](https://github.com/shriharan18/MickeyAssistantAdminApp/assets/74127448/1c337c5e-ab4b-49a4-a26e-87647db542fd)
 
